@@ -1,0 +1,2 @@
+[32mINFO    [0m root:Test_Login_Page.py:17 *************** Test_001_Login *****************
+[32mINFO    [0m root:Test_Login_Page.py:25 ****Login test passed ****

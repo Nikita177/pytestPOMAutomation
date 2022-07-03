@@ -1,0 +1,61 @@
+07/02/2022 04:46:27 PM: INFO: 
+
+07/02/2022 04:46:27 PM: INFO: ====== WebDriver manager ======
+07/02/2022 04:46:28 PM: INFO: Current google-chrome version is 103.0.5060
+07/02/2022 04:46:28 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/02/2022 04:46:28 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/02/2022 04:46:32 PM: INFO: ++++++++++++Broswe Log Entries++++++++++++++++++
+07/02/2022 04:46:32 PM: INFO: 
+
+07/02/2022 04:46:32 PM: INFO: ====== WebDriver manager ======
+07/02/2022 04:46:33 PM: INFO: Current firefox version is 102.0
+07/02/2022 04:46:33 PM: INFO: Get LATEST geckodriver version for 102.0 firefox
+07/02/2022 04:46:34 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+07/02/2022 05:26:59 PM: INFO: 
+
+07/02/2022 05:26:59 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:26:59 PM: INFO: Current google-chrome version is 103.0.5060
+07/02/2022 05:26:59 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/02/2022 05:26:59 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/02/2022 05:27:03 PM: INFO: ++++++++++++Broswe Log Entries++++++++++++++++++
+07/02/2022 05:27:03 PM: INFO: 
+
+07/02/2022 05:27:03 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:27:03 PM: INFO: Current firefox version is 102.0
+07/02/2022 05:27:03 PM: INFO: Get LATEST geckodriver version for 102.0 firefox
+07/02/2022 05:27:04 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+07/02/2022 05:28:47 PM: INFO: 
+
+07/02/2022 05:28:47 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:28:47 PM: INFO: Current google-chrome version is 103.0.5060
+07/02/2022 05:28:47 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/02/2022 05:28:47 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/02/2022 05:28:52 PM: INFO: ++++++++++++Broswe Log Entries++++++++++++++++++
+07/02/2022 05:28:53 PM: INFO: 
+
+07/02/2022 05:28:53 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:28:53 PM: INFO: Current firefox version is 102.0
+07/02/2022 05:28:53 PM: INFO: Get LATEST geckodriver version for 102.0 firefox
+07/02/2022 05:28:54 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+07/02/2022 05:30:17 PM: INFO: 
+
+07/02/2022 05:30:17 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:30:18 PM: INFO: Current google-chrome version is 103.0.5060
+07/02/2022 05:30:18 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/02/2022 05:30:18 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/02/2022 05:30:24 PM: INFO: ++++++++++++Broswe Log Entries++++++++++++++++++
+07/02/2022 05:30:24 PM: INFO: 
+
+07/02/2022 05:30:24 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:30:24 PM: INFO: Current firefox version is 102.0
+07/02/2022 05:30:24 PM: INFO: Get LATEST geckodriver version for 102.0 firefox
+07/02/2022 05:30:25 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\geckodriver\win64\v0.31.0\geckodriver.exe] found in cache
+07/02/2022 05:32:14 PM: INFO: 
+
+07/02/2022 05:32:14 PM: INFO: ====== WebDriver manager ======
+07/02/2022 05:32:14 PM: INFO: Current google-chrome version is 103.0.5060
+07/02/2022 05:32:14 PM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/02/2022 05:32:14 PM: INFO: Driver [C:\Users\Nikita\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/02/2022 05:32:16 PM: INFO: *************** Test_001_Login *****************
+07/02/2022 05:32:20 PM: INFO: ****Login test passed ****
+07/02/2022 05:32:20 PM: INFO: ++++++++++++Broswe Log Entries++++++++++++++++++
